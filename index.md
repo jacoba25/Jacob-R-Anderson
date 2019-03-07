@@ -11,4 +11,4 @@ I currently work as an Assistant Career Advisor at the University of Washington,
   <li>Contact Me</li>
 </ul>
 
-<image src="W-Logo_Purple_RGB.png" class="center" style="margin-left: auto;margin-right: auto;"/>
+<image src="W-Logo_Purple_RGB.png" class="center" style="display: block;margin-left: auto;margin-right: auto;"/>
