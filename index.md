@@ -1,12 +1,3 @@
-<head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
 # Jacob R Anderson
 Hello! I am a current Junior at the University of Washington, Bothell studying Computer Science and Software Engineering with a concentration in Information Assurance and Cybersecurity.
 
@@ -20,4 +11,4 @@ I currently work as an Assistant Career Advisor at the University of Washington,
   <li>Contact Me</li>
 </ul>
 
-<image src="W-Logo_Purple_RGB.png" class="center" />
+<image src="W-Logo_Purple_RGB.png" class="center" style="margin-left: auto;margin-right: auto;"/>
