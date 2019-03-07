@@ -4,7 +4,7 @@ Hello! I am a current Junior at the University of Washington, Bothell studying C
 I currently work as an Assistant Career Advisor at the University of Washington, Bothell. I help students by providing professional development services including resume, cover letter, and linkedin reviews.
 
 <ul>
-  <li>About Me</li>
+  <li><a href="jacobranderson.com/about">About Me</a></li>
   <li>Skills</li>
   <li>Experience</li>
   <li>Software Development Projects</li>
