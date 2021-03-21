@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F751FCEF-EAC1-4ACD-AB8F-679922E3B648}|Default">
+  <MonoDevelop.Ide.ItemProperties.JacobWebsite PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JacobWebsite/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="JacobWebsite/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="JacobWebsite/Views/Home/Index.cshtml" />
+      <File FileName="JacobWebsite/Views/Home/AboutMe.cshtml" />
+      <File FileName="JacobWebsite/Views/Home/Photos.cshtml" />
+      <File FileName="JacobWebsite/Views/Home/Privacy.cshtml" />
+      <File FileName="JacobWebsite/Views/Home/ContactMe.cshtml" />
+      <File FileName="JacobWebsite/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="JacobWebsite/Views/Shared/Error.cshtml" />
+      <File FileName="JacobWebsite/Controllers/HomeController.cs" Line="18" Column="30" />
+      <File FileName="JacobWebsite/Models/ErrorViewModel.cs" />
+      <File FileName="JacobWebsite/Properties/launchSettings.json" />
+      <File FileName="JacobWebsite/Views/_ViewImports.cshtml" />
+      <File FileName="JacobWebsite/Views/_ViewStart.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JacobWebsite" expanded="True">
+            <Node name="JacobWebsite" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w02tR2WyHLzWKx4N6bz08QOqCQBoK4/Z54e9lvFpE1Bi/cxo4yljeGiokeweiVufzh+OgJcZ0jWMM61rXgDHtg==",
+  "success": true,
+  "projectFilePath": "/Users/jake/Development and Projects/GitHub/Jacob-Site/Jacob-R-Anderson/JacobWebsite/JacobWebsite/JacobWebsite.csproj",
+  "expectedPackageFiles": [
+    "/Users/jake/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
